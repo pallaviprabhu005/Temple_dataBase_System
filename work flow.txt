@@ -1,0 +1,29 @@
+User opens browser
+        ↓
+Visits http://127.0.0.1:5000/
+        ↓
+Flask shows main.html (form)
+        ↓
+User submits donation info
+        ↓
+Flask → reads form → inserts data into SQLite tables
+        ↓
+Redirects back to homepage
+        ↓
+User visits /users or /list
+        ↓
+Flask queries database and shows data in HTML templates
+
+
+--------------------------------------------------------------------------------------------------
+*Example Flow*
+
+You open the page → fill in Date: 21-10-2025, Name: Ramesh, Amount: 500, Pooja counts.
+
+Flask saves it in counter.db with a unique Did (like Xy12Zf).
+
+You can later go to /users → see Ramesh’s record.
+
+Or /list → see all records and total ₹ collected.
+
+You can also search “Ramesh” or filter by “21-10-2025”.
