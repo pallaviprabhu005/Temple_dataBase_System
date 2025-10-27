@@ -8,11 +8,11 @@
        <li>
          <ul>
            <li><a href="#installation">Installation</a></li>
-           <li><a href="#development">Development</a></li>
+           
          </ul>
        </li>
        <li><a href="#contributing">Contributing / Adding Features</a></li>
-       <li><a href="#license">License</a></li>
+      
      </ol>
    </details>
    
@@ -68,5 +68,6 @@
    
    
 <h5 align="center">THANK YOU</h5>
+
 
 
