@@ -79,7 +79,6 @@
   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
   While sending the PR please mention the issue in the Comment.
    
- ## LICENSE
-  [Apache License 2.0](https://github.com/PrathvirajPrabhu/my-ocr/blob/master/LICENSE)
    
 <h5 align="center">THANK YOU</h5>
+
