@@ -59,19 +59,6 @@
        ```
    5. Do the Development and send me a PR referencing the issue.
    
-  ## DEVELOPMENT
-   
-       git checkout develop-<username>
-       //Create the changes and then commit
-       git add <filename>
-       git commit -m "<Message here>"
-       
-   From your `master` branch or your main branch that you are working on, give a PR to our `develop` branch.
-
-   Developers should create a folder /media and put an image named `default.jpg` to avoid errors in creating superuser.
-
-   `!IMPORTANT`: Don't give a PR to the master branch
-   We only accept PR's to `develop` branch.
 
 
 
@@ -81,4 +68,5 @@
    
    
 <h5 align="center">THANK YOU</h5>
+
 
