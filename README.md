@@ -1,5 +1,5 @@
 <h1 align="center">TEMPLE DATABASE MANAGEMENT SYSTEM</h1>
-<p align="center"><a href="https://temple-counter.herokuapp.com/"><img src="https://freepngimg.com/download/temple/32585-1-temple-transparent.png" height="250px" width="350px"/></a></p>
+<p align="center"><a href="https://temple-counter.herokuapp.com/"><img 
 
    <!-- TABLE OF CONTENTS -->
    <details open="open">
@@ -68,6 +68,7 @@
    
    
 <h5 align="center">THANK YOU</h5>
+
 
 
 
